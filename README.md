@@ -8,6 +8,8 @@ List of projects developed during React Nanodegree program by Udacity. July - No
 ### [React: Book Tracking](https://github.com/RusPosevkin/book-tracking)
 A bookshelf app that allows to select and categorize books that user have read, are currently reading, or want to read.
 
+![React: Book Tracking – Demo animation](https://raw.githubusercontent.com/RusPosevkin/book-tracking/master/img/demo.gif "Demo animation")
+
 ### [Redux: Readable](https://github.com/RusPosevkin/readable)
 It's a content and comment web app. Users are able to post content to predefined categories, comment on their posts and other users' posts, and vote on posts and comments. Users are also able to edit and delete posts and comments.
 
